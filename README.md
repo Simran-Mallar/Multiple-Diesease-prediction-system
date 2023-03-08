@@ -1,4 +1,4 @@
-# Multiple-Diesease-prediction-system
+# Multiple-Disease-prediction-system
 
 Aim of this project is to anticipate the various sorts of illness by utilizing inbuilt python modules. To implement this we have used various machine learning algorithms such as SVM,Logistic regression etc. Streamlit and python pickling were used to build the webapp.
 In this project we will be analyzing Diabetes , Heart disease , Parkinson's disease, etc. by using parameters such as Cholesterol, Blood Pressure, Heart Rate, etc., and also the risk factors associated with the disease can be found using prediction model with good accuracy and precision. Thus, the goal here is to build a web application to help doctors in diagnosing multiple diseases.
